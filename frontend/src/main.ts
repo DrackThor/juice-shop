@@ -114,10 +114,12 @@ bootstrapApplication(AppComponent, {
                 }
             }
         },
-        ProductService,
+        // how about I remove this? nice!
+        // ProductService,
         // let's remove this as well!
         // ConfigurationService,
-        AdministrationService,
+        // and this one needs to be removed as well! begone!!
+        // AdministrationService,
         SecurityQuestionService,
         DataSubjectService,
         UserService,
