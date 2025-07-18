@@ -115,7 +115,7 @@ bootstrapApplication(AppComponent, {
             }
         },
         ProductService,
-        // let's remove this as well :D
+        // let's remove this as well!
         // ConfigurationService,
         AdministrationService,
         SecurityQuestionService,
